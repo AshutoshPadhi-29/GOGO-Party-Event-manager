@@ -1,0 +1,114 @@
+html{
+    background-color: rgb(90, 112, 104);
+}
+img{
+    height: 100px;
+    width: 200px;
+     ;
+    float: left;
+}
+.header{
+    background-color: black;
+    height: 100px;
+}
+h2{
+    color: rgb(243, 7, 223);
+    display: flex;
+    margin-left:10px;
+    background-color: black;
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 500px;
+    font-size: 3rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#P{
+    color: rgb(73, 139, 7);
+}
+#A{
+    color:rgb(56, 8, 44);
+}
+#R{
+    color: rgb(133, 10, 10);
+}
+#T{
+    color: cornflowerblue;
+}
+#Y{
+    color: darkblue;
+}
+#H{
+    color: rgb(250, 50, 90);
+}
+#A{
+    color: rgb(6, 121, 115);
+}
+#RR{
+    color: gold;
+}
+#D{
+color: chartreuse;
+}
+a{  margin-top: 10px;
+    display: inline-block;   
+    margin-left: 20px;    
+}
+button{
+    background-color: black;
+    color: chocolate;
+    border-radius: 20px;
+    margin-top: -20px;
+}
+.search-container {
+    display: flex;
+    margin-left: 400px;
+}
+input[type="text"] {
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 20px;
+    text-align: center;
+    width: 500px;
+    background-color: cadetblue;
+    color: brown;
+    font-size: 2em;
+    margin-top: 30px;
+    
+}
+.search-container button{
+    height: 50px;
+    width: 70px;
+    margin-top: 30px;
+    background-color: rgb(145, 14, 75);
+    color: rgb(6, 7, 6);
+    display: inline;
+
+}
+#list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-top: 10px;
+}
+.party{
+    margin-top: 10px;
+}
+.place{
+    text-align: center;
+    background-color: none;
+
+}
+.place h4{
+    font-size: 2rem;
+    color: rgb(173, 218, 13);
+}
+.place h3{
+    font-size: 2rm;
+    color: rgb(12, 49, 34);
+}
+footer{
+    text-align: right;
+    color: rgb(3, 70, 7);
+    margin-top: 100px;
+}
